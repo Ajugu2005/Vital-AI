@@ -1,6 +1,7 @@
 # Vital AI
 
 Conversational post-discharge follow-up assistant for Nigerian patients — web chat, browser voice and BimpeAI phone calls — in English, Pidgin, Yoruba, Igbo and Hausa. Hackathon demo.
+Post-discharge voice agent that phones patients in Nigerian Pidgin/English, checks medication adherence and danger signs, flags critical cases with a rule-based safety layer, and alerts doctors by SMS. Built on BimpeAI at Lagos Agentic AI Hack Night 2026.
 
 ## Run the demo
 
